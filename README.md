@@ -23,7 +23,7 @@ As the objective was to predict if the organization will be successful, target y
 
 After splitting and scaling the dataset, the training dataset has 80 columns and over 34299 rows, so my first model had two layers to handle the larger amount of data, with a smaller number of nodes (10 and 8 respectively).
 
-Even though the first model already achieved an accuracy of 75.50% accuracy, I tried to see if the performance can be further optimzed.
+Even though the first model already achieved an accuracy of 75.50% accuracy, I tried to see if the performance can be further optimized.
 
 Original:                                                          accuracy score: 75.50%
 Optimization 1:	Binning "ASK_AMT"	                                 accuracy score: 75.34%
