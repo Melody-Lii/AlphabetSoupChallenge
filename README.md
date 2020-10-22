@@ -36,4 +36,4 @@ The best optimized performance was binning the Ask_Amt with increased neurons in
 # Implement a different model
 As an alternative, I would use Random Forest Classifier. The original dataset was already in a tabular format, and is large enough to handle data being split into subset data for training. It is able to train and predict such a large data set in a more efficient manner.
 
-In comparision, I would choose the Random Forest Classifier. The accuracy score is 75.40%, and much more efficient.
+In comparision, I would choose the Random Forest Classifier. The accuracy score is 75.40%, and more efficient.
